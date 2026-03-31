@@ -43,10 +43,10 @@ An in-depth analysis of modern social engineering threats, focusing specifically
 
 ## 👨‍💻 Author
 
-**Ankit Nag** *BTech Computer Science and Engineering (AI \& ML) | VIT Bhopal*
+**Aryan Singh ** *BTech Computer Science and Engineering (AI \& ML) | VIT Bhopal*
 
-* 🌐 \[LinkedIn]-> https://www.linkedin.com/in/ankit-nag-6b580637a
-* 💻 \[GitHub]-> https://github.com/ANKIT04042006
+* 🌐 \[LinkedIn]-> https://www.linkedin.com/in/aryan-singh-4036b8381/?skipRedirect=true
+* 💻 \[GitHub]-> https://github.com/itsmearyansingh24-rgb
 
 \---
 
